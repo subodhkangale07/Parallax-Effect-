@@ -1,4 +1,4 @@
-# Parallax-Effect-Website
+subodhkangale07
 A simple website with a parallax effect, built using HTML and CSS.
 ## Introduction
 
