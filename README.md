@@ -1,5 +1,4 @@
-subodhkangale07
-A simple website with a parallax effect, built using HTML and CSS.
+
 ## Introduction
 
 This project showcases a website with a parallax effect, enhancing the user experience through visually appealing scrolling effects. The website is built using HTML and CSS, making it easy to understand and customize.
